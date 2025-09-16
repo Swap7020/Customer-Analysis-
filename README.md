@@ -38,3 +38,5 @@ The app will output:
 
 🟢This App is helping to specific business only.
 🟢I have created this app for Car Company which can be able to target thoes customers which are predicted as 🟢 Customer will buy the product and ignore them which are predicted as 🔴 Customer will not buy the product
+
+Here is the Application Link- https://customerprediction.streamlit.app/
