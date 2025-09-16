@@ -1,4 +1,4 @@
-# 🛍️ Customer Purchase Prediction App  
+# 🛍️ Customer Purchase Prediction App 
 
 This is a Streamlit web application that predicts whether a customer will buy a product or not based on their Age and Estimated Salary.  
 It uses a Machine Learning model trained on historical data.  
